@@ -13,6 +13,6 @@ spec:
         tire: frontend
     spec:
       containers:
-        - name: nginx
+        - name: nginx-app
           image: nginx  
 
